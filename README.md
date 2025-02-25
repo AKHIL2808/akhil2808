@@ -1,4 +1,4 @@
-![MasterHead](https://akhil2808.github.io/akhil2808-svg/profile.gif)
+![MasterHead](https://akhil2808.github.io/akhil2808-svg/profile(1).gif)
 
 
 <h1 align="center">Hi 👋, I'm Akhilesh</h1>
